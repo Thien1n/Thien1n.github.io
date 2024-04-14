@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Presentations on ThienTrinhIT</title>
-    <link>http://example.org/presentation/</link>
+    <link>http://localhost:1313/presentation/</link>
     <description>Recent content in Presentations on ThienTrinhIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/presentation/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Fourth</title>
-        <link>http://example.org/presentation/dir/fourth/</link>
+        <link>http://localhost:1313/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>http://example.org/presentation/dir/fourth/</guid>
+        <guid>http://localhost:1313/presentation/dir/fourth/</guid>
         <description></description>
         
         <dc:creator>Trịnh Thanh Thiên</dc:creator>
-        <media:content url="http://example.org/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -52,15 +52,15 @@
       
       <item>
         <title>Third</title>
-        <link>http://example.org/presentation/third/</link>
+        <link>http://localhost:1313/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
-        <guid>http://example.org/presentation/third/</guid>
+        <guid>http://localhost:1313/presentation/third/</guid>
         <description></description>
         
         <dc:creator>Trịnh Thanh Thiên</dc:creator>
-        <media:content url="http://example.org/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -82,15 +82,15 @@
       
       <item>
         <title>Second</title>
-        <link>http://example.org/presentation/second/</link>
+        <link>http://localhost:1313/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
-        <guid>http://example.org/presentation/second/</guid>
+        <guid>http://localhost:1313/presentation/second/</guid>
         <description></description>
         
         <dc:creator>Trịnh Thanh Thiên</dc:creator>
-        <media:content url="http://example.org/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -112,15 +112,15 @@
       
       <item>
         <title>First</title>
-        <link>http://example.org/presentation/first/</link>
+        <link>http://localhost:1313/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>http://example.org/presentation/first/</guid>
+        <guid>http://localhost:1313/presentation/first/</guid>
         <description></description>
         
         <dc:creator>Trịnh Thanh Thiên</dc:creator>
-        <media:content url="http://example.org/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
