@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Html on ThienTrinhIT</title>
-    <link>http://localhost:1313/tags/html/</link>
+    <link>https://thien1n.github.io/tags/html/</link>
     <description>Recent content in Html on ThienTrinhIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/tags/html/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://thien1n.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Markdown Syntax Guide</title>
-        <link>http://localhost:1313/posts/markdown-syntax/</link>
+        <link>https://thien1n.github.io/posts/markdown-syntax/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Fri, 20 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>http://localhost:1313/posts/markdown-syntax/</guid>
+        <guid>https://thien1n.github.io/posts/markdown-syntax/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
         
         <dc:creator>Choi</dc:creator>
-        <media:content url="http://localhost:1313/images/bai2/img2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://thien1n.github.io/images/bai2/bai2.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
