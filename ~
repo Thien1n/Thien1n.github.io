@@ -1,0 +1,36 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   categories/hugo/index.html
+#	modified:   categories/hugo/index.xml
+#	modified:   posts/bai1/index.html
+#	modified:   posts/emoji-support/index.html
+#	modified:   posts/index.html
+#	modified:   posts/index.xml
+#	modified:   posts/markdown-syntax/index.html
+#	modified:   posts/math-typesetting/index.html
+#	modified:   posts/rich-content/index.html
+#	modified:   posts/shortcodes/index.html
+#	modified:   posts/syntax-highlight/index.html
+#	modified:   posts/test-chartjs/index.html
+#	modified:   posts/test-flowchart/index.html
+#	modified:   posts/test-js-sequence-diagrams/index.html
+#	modified:   posts/test-katex/index.html
+#	modified:   posts/test-mathjax/index.html
+#	modified:   posts/test-mermaid/index.html
+#	modified:   posts/test-viz/index.html
+#	modified:   posts/test-wavedrom/index.html
+#	modified:   publication/article/article_any_folder_name_1/index.html
+#	modified:   publication/book/book_any_folder_name_1/index.html
+#	modified:   publication/misc/misc_any_folder_name_1/index.html
+#	modified:   showcase/hugo/hugo-theme-zdoc/index.html
+#	modified:   showcase/hugo/hugo-theme-zzo/index.html
+#	modified:   showcase/index.html
+#	modified:   tags/hugo/index.html
+#	modified:   tags/hugo/index.xml
+#

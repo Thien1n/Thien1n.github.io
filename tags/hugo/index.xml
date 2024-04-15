@@ -32,7 +32,7 @@ More about tuning syntax highlighting is the Hugo documentation.
 Diff 1 2 3 4 5 6 7 8 9 10 *** /path/to/original	&amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new	&amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** ! This is a line. --- 1 --- ! This is a replacement line. It is important to spell -removed line +new line *** /path/to/original	&amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; --- /path/to/new	&amp;#39;&amp;#39;timestamp&amp;#39;&amp;#39; *************** *** 1 **** !</description>
         
         <dc:creator>Jeus</dc:creator>
-        <media:content url="http://localhost:1313/images/Bai11/bai1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/bai1/bai1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
