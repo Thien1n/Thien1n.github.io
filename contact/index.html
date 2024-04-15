@@ -1462,14 +1462,6 @@
           hacker
         </a>
         
-        <a href="#" class="dropdown-item select-theme__item ">
-          solarized
-        </a>
-        
-        <a href="#" class="dropdown-item select-theme__item ">
-          kimbie
-        </a>
-        
       
     </div>
   </div>
@@ -1623,14 +1615,6 @@
           hacker
         </a>
         
-        <a href="#" class="dropdown-item select-theme__item ">
-          solarized
-        </a>
-        
-        <a href="#" class="dropdown-item select-theme__item ">
-          kimbie
-        </a>
-        
       
     </div>
   </div>
@@ -1707,29 +1691,68 @@
 
       </article>
       
-        <form action="https://formspree.io/trinhthanhthien6.it@gmail.com" method="POST" class="contact__form">
-  <div class="contact__input--container">
-    <div class="contact__input--wrapper">
-      <label class="contact__label">
-        Name    
-      </label>
-      <input type="text" name="name" class="contact__input" aria-label="Name">
+        <form action="https://formspree.io/f/xjvnpzzy" method="POST" class="contact__form">
+    <div class="contact__input--container">
+      <div class="contact__input--wrapper">
+        <label class="contact__label">
+          Name
+        </label>
+        <input type="text" name="name" class="contact__input" aria-label="Name">
+      </div>
+      <div class="contact__input--wrapper">
+        <label class="contact__label">
+          Email
+        </label>
+        <input type="email" name="email" class="contact__input" aria-label="Email">
+      </div>
     </div>
-    <div class="contact__input--wrapper">
-      <label class="contact__label">
-        Email    
-      </label>
-      <input type="email" name="_replyto" class="contact__input" aria-label="Email">
+
+    <div class="contact__input--container">
+        <div class="contact__input--wrapper">
+            <label class="contact__label">
+                Message    
+            </label>
+            <textarea name="message" class="contact__message" aria-label="Message"></textarea>
+        </div>
     </div>
-  </div>
-  <div class="contact__message--wrapper">
-    <label class="contact__label">
-      Message    
-    </label>
-    <textarea name="message" class="contact__message" aria-label="Message"></textarea>
-  </div>
-  <input type="submit" value="Send" class="contact__send">
-</form>
+
+
+    <div class="contact__input--container">
+      <div class="contact__input--wrapper">
+        <label class="contact__label">
+          Tel
+        </label>
+        <input type="text" name="tel" class="contact__input" aria-label="Tel">
+      </div>
+      <div class="contact__input--wrapper">
+        <label class="contact__label">
+          File
+        </label>
+        <input type="file" id="upload" name="file" style="display: none;">
+        <input type="button" id="uploadBtn" value="Browse" class="contact__input" aria-label="File"/>
+      </div>
+    </div>
+    <input type="submit" value="Send" class="contact__send">
+  </form>
+  
+  <script>
+    var uploadBtn = document.querySelector('#uploadBtn');
+    uploadBtn.addEventListener('click', function(elem) {
+      var upload = document.querySelector('#upload');
+      upload.click();
+      upload.onchange = function(e) {
+        var fullPath = e.target.value;
+        if (fullPath) {
+          var startIndex = (fullPath.indexOf('\\') >= 0 ? fullPath.lastIndexOf('\\') : fullPath.lastIndexOf('/'));
+          var filename = fullPath.substring(startIndex);
+          if (filename.indexOf('\\') === 0 || filename.indexOf('/') === 0) {
+            filename = filename.substring(1);
+          }
+          uploadBtn.setAttribute('value', filename);
+        }
+      }
+    });
+  </script>
       
   </div>
 </main>
