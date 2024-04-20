@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on ThienTrinhIT</title>
-    <link>https://it.trinhthanhthien.id.vn/series/</link>
+    <link>http://localhost:1313/series/</link>
     <description>Recent content in Series on ThienTrinhIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 19 Apr 2024 11:11:12 +0000</lastBuildDate>
     
-        <atom:link href="https://it.trinhthanhthien.id.vn/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Git Siêu Cơ Bản</title>
-        <link>https://it.trinhthanhthien.id.vn/series/git-si%C3%AAu-c%C6%A1-b%E1%BA%A3n/</link>
+        <link>http://localhost:1313/series/git-si%C3%AAu-c%C6%A1-b%E1%BA%A3n/</link>
         <pubDate>Fri, 19 Apr 2024 11:11:12 +0000</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         
-        <guid>https://it.trinhthanhthien.id.vn/series/git-si%C3%AAu-c%C6%A1-b%E1%BA%A3n/</guid>
+        <guid>http://localhost:1313/series/git-si%C3%AAu-c%C6%A1-b%E1%BA%A3n/</guid>
         <description></description>
         
         <dc:creator>Trịnh Thanh Thiên</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Themes Guide</title>
-        <link>https://it.trinhthanhthien.id.vn/series/themes-guide/</link>
+        <link>http://localhost:1313/series/themes-guide/</link>
         <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         
-        <guid>https://it.trinhthanhthien.id.vn/series/themes-guide/</guid>
+        <guid>http://localhost:1313/series/themes-guide/</guid>
         <description></description>
         
         <dc:creator>Trịnh Thanh Thiên</dc:creator>
