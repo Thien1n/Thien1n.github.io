@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Git Siêu Cơ Bản on ThienTrinhIT</title>
+    <link>https://it.trinhthanhthien.id.vn/series/git-si%C3%AAu-c%C6%A1-b%E1%BA%A3n/</link>
+    <description>Recent content in Git Siêu Cơ Bản on ThienTrinhIT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</managingEditor>
+    <webMaster>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</webMaster>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 19 Apr 2024 11:11:12 +0000</lastBuildDate>
+    
+        <atom:link href="https://it.trinhthanhthien.id.vn/series/git-si%C3%AAu-c%C6%A1-b%E1%BA%A3n/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Làm Quen Với Git Phần 2</title>
+        <link>https://it.trinhthanhthien.id.vn/posts/git/gitcoban/bai1/noidung/gitbai1/</link>
+        <pubDate>Fri, 19 Apr 2024 11:11:12 +0000</pubDate>
+        <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
+        <atom:modified>Fri, 19 Apr 2024 11:11:12 +0000</atom:modified>
+        <guid>https://it.trinhthanhthien.id.vn/posts/git/gitcoban/bai1/noidung/gitbai1/</guid>
+        <description>1. Tổng quan về Git 1.1. Tại sao cần sử dụng Git Git là một công cụ được cài đặt trên máy tính cá nhân sử dụng với mục đích quản lý source code một cách hiệu quả hơn
+Các tính năng mà chúng ta thường sử dụng trên Git có thể kể đến như:
+Kiểm tra lịch sử code Kiểm tra sự thay đổi code Quản lý code version,&amp;hellip; 1.</description>
+        
+        <dc:creator>Trịnh Thanh Thiên</dc:creator>
+        <media:content url="https://it.trinhthanhthien.id.vn/../img/git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>git</category>
+            
+          
+            
+              <category>code</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+          
+            
+              <category>Git Siêu Cơ Bản</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
