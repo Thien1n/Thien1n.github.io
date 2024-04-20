@@ -21,7 +21,7 @@
 
       
       <item>
-        <title>Làm Quen Với Git Phần 2</title>
+        <title>Làm Quen Với Git Phần 1</title>
         <link>https://it.trinhthanhthien.id.vn/posts/git/gitcoban/bai1/noidung/gitbai1/</link>
         <pubDate>Fri, 19 Apr 2024 11:11:12 +0000</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
@@ -32,7 +32,49 @@ Các tính năng mà chúng ta thường sử dụng trên Git có thể kể đ
 Kiểm tra lịch sử code Kiểm tra sự thay đổi code Quản lý code version,&amp;hellip; 1.</description>
         
         <dc:creator>Trịnh Thanh Thiên</dc:creator>
-        <media:content url="https://it.trinhthanhthien.id.vn/../img/git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://it.trinhthanhthien.id.vn/images/git/bai1/git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>git</category>
+            
+          
+            
+              <category>code</category>
+            
+          
+        
+        
+          
+            
+              <category>dev</category>
+            
+          
+        
+        
+          
+            
+              <category>Git Siêu Cơ Bản</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Làm Quen Với Git Phần 2</title>
+        <link>https://it.trinhthanhthien.id.vn/posts/git/gitcoban/bai1/noidung/gitbai2/</link>
+        <pubDate>Fri, 19 Apr 2024 11:11:12 +0000</pubDate>
+        <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
+        <atom:modified>Fri, 19 Apr 2024 11:11:12 +0000</atom:modified>
+        <guid>https://it.trinhthanhthien.id.vn/posts/git/gitcoban/bai1/noidung/gitbai2/</guid>
+        <description>1. Tổng quan về Git 1.1. Tại sao cần sử dụng Git Git là một công cụ được cài đặt trên máy tính cá nhân sử dụng với mục đích quản lý source code một cách hiệu quả hơn
+Các tính năng mà chúng ta thường sử dụng trên Git có thể kể đến như:
+Kiểm tra lịch sử code Kiểm tra sự thay đổi code Quản lý code version,&amp;hellip; 1.</description>
+        
+        <dc:creator>Trịnh Thanh Thiên</dc:creator>
+        <media:content url="https://it.trinhthanhthien.id.vn/images/git/bai1/git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
