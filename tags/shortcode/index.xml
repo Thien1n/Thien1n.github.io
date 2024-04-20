@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Shortcode on ThienTrinhIT</title>
-    <link>http://localhost:1313/tags/shortcode/</link>
-    <description>Recent content in Shortcode on ThienTrinhIT</description>
+    <title>Shortcode on ThienTrinhIT.id.vn || Azure/MS365/MCSA/CyberSecurity/Python</title>
+    <link>https://it.trinhthanhthien.id.vn/tags/shortcode/</link>
+    <description>Recent content in Shortcode on ThienTrinhIT.id.vn || Azure/MS365/MCSA/CyberSecurity/Python</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</managingEditor>
@@ -16,22 +16,22 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://it.trinhthanhthien.id.vn/tags/shortcode/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Shortcodes</title>
-        <link>http://localhost:1313/posts/sample/shortcodes/</link>
+        <link>https://it.trinhthanhthien.id.vn/posts/sample/shortcodes/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Sat, 25 Jan 2020 06:40:51 +0900</atom:modified>
-        <guid>http://localhost:1313/posts/sample/shortcodes/</guid>
+        <guid>https://it.trinhthanhthien.id.vn/posts/sample/shortcodes/</guid>
         <description>Markdownify box This is boxmd shortcode Simple box This is **box** shortcodeCode tabs Make it easy to switch between different code
 javajavascript1 System.out.println(&amp;#39;Hello World!&amp;#39;); 1 console.log(&amp;#39;Hello World!&amp;#39;); Tabs for general purpose WindowsMacOSUbuntuWindows section 1 console.log(&amp;#39;Hello World!&amp;#39;); ⚠️Becareful that the content in the tab should be different from each other. The tab makes unique id hashes depending on the tab contents. So, If you just copy-paste the tabs with multiple times, since it has the same contents, the tab will not work.</description>
         
         <dc:creator>Trịnh Thanh Thiên</dc:creator>
-        <media:content url="http://localhost:1313/images/img1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://it.trinhthanhthien.id.vn/images/img1.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

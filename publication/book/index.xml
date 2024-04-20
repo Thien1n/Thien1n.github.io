@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>book on ThienTrinhIT</title>
-    <link>http://localhost:1313/publication/book/</link>
-    <description>Recent content in book on ThienTrinhIT</description>
+    <title>book on ThienTrinhIT.id.vn || Azure/MS365/MCSA/CyberSecurity/Python</title>
+    <link>https://it.trinhthanhthien.id.vn/publication/book/</link>
+    <description>Recent content in book on ThienTrinhIT.id.vn || Azure/MS365/MCSA/CyberSecurity/Python</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</managingEditor>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/publication/book/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://it.trinhthanhthien.id.vn/publication/book/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Donec vel ipsum vulputate, dapibus magna quis</title>
-        <link>http://localhost:1313/publication/book/book_any_folder_name_1/</link>
+        <link>https://it.trinhthanhthien.id.vn/publication/book/book_any_folder_name_1/</link>
         <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Thu, 01 Jun 2017 00:00:00 +0000</atom:modified>
-        <guid>http://localhost:1313/publication/book/book_any_folder_name_1/</guid>
+        <guid>https://it.trinhthanhthien.id.vn/publication/book/book_any_folder_name_1/</guid>
         <description></description>
         
         <dc:creator>Trịnh Thanh Thiên</dc:creator>

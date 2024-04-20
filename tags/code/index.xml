@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Code on ThienTrinhIT</title>
-    <link>http://localhost:1313/tags/code/</link>
-    <description>Recent content in Code on ThienTrinhIT</description>
+    <title>Code on ThienTrinhIT.id.vn || Azure/MS365/MCSA/CyberSecurity/Python</title>
+    <link>https://it.trinhthanhthien.id.vn/tags/code/</link>
+    <description>Recent content in Code on ThienTrinhIT.id.vn || Azure/MS365/MCSA/CyberSecurity/Python</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</managingEditor>
@@ -16,23 +16,23 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 19 Apr 2024 11:11:12 +0000</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/tags/code/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://it.trinhthanhthien.id.vn/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Làm Quen Với Git Phần 1</title>
-        <link>http://localhost:1313/posts/git/gitcoban/bai1/noidung/gitbai1/</link>
+        <link>https://it.trinhthanhthien.id.vn/posts/git/gitcoban/bai1/noidung/gitbai1/</link>
         <pubDate>Fri, 19 Apr 2024 11:11:12 +0000</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Fri, 19 Apr 2024 11:11:12 +0000</atom:modified>
-        <guid>http://localhost:1313/posts/git/gitcoban/bai1/noidung/gitbai1/</guid>
-        <description>1. Tổng quan về Git 1.1. Tại sao cần sử dụng Git Git là một công cụ được cài đặt trên máy tính cá nhân sử dụng với mục đích quản lý source code một cách hiệu quả hơn
+        <guid>https://it.trinhthanhthien.id.vn/posts/git/gitcoban/bai1/noidung/gitbai1/</guid>
+        <description>1. Tổng quan về Git 1.1. Tại sao cần sử dụng Git Git là một công cụ được cài đặt trên máy tính cá nhân sử dụng với mục đích quản lý mã nguồn (source code) một cách hiệu quả hơn
 Các tính năng mà chúng ta thường sử dụng trên Git có thể kể đến như:
-Kiểm tra lịch sử code Kiểm tra sự thay đổi code Quản lý code version,&amp;hellip; 1.</description>
+Kiểm tra lịch sử mã nguồn Kiểm tra và truy vấn sự thay đổi mã nguồn Quản lý phiên bản mã nguồn,&amp;hellip; 1.</description>
         
         <dc:creator>Trịnh Thanh Thiên</dc:creator>
-        <media:content url="http://localhost:1313/images/git/bai1/git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://it.trinhthanhthien.id.vn/images/git/bai1/git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -64,17 +64,17 @@ Kiểm tra lịch sử code Kiểm tra sự thay đổi code Quản lý code ver
       
       <item>
         <title>Làm Quen Với Git Phần 2</title>
-        <link>http://localhost:1313/posts/git/gitcoban/bai1/noidung/gitbai2/</link>
+        <link>https://it.trinhthanhthien.id.vn/posts/git/gitcoban/bai1/noidung/gitbai2/</link>
         <pubDate>Fri, 19 Apr 2024 11:11:12 +0000</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Fri, 19 Apr 2024 11:11:12 +0000</atom:modified>
-        <guid>http://localhost:1313/posts/git/gitcoban/bai1/noidung/gitbai2/</guid>
+        <guid>https://it.trinhthanhthien.id.vn/posts/git/gitcoban/bai1/noidung/gitbai2/</guid>
         <description>1. Tổng quan về Git 1.1. Tại sao cần sử dụng Git Git là một công cụ được cài đặt trên máy tính cá nhân sử dụng với mục đích quản lý source code một cách hiệu quả hơn
 Các tính năng mà chúng ta thường sử dụng trên Git có thể kể đến như:
 Kiểm tra lịch sử code Kiểm tra sự thay đổi code Quản lý code version,&amp;hellip; 1.</description>
         
         <dc:creator>Trịnh Thanh Thiên</dc:creator>
-        <media:content url="http://localhost:1313/images/git/bai1/git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://it.trinhthanhthien.id.vn/images/git/bai1/git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
