@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Shortcodes on ThienTrinhIT</title>
-    <link>https://thien1n.github.io/tags/shortcodes/</link>
+    <link>http://localhost:1313/tags/shortcodes/</link>
     <description>Recent content in Shortcodes on ThienTrinhIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,21 +16,21 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 19 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://thien1n.github.io/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Rich Content</title>
-        <link>https://thien1n.github.io/posts/rich-content/</link>
+        <link>http://localhost:1313/posts/rich-content/</link>
         <pubDate>Thu, 19 Dec 2019 12:00:06 +0900</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Thu, 19 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>https://thien1n.github.io/posts/rich-content/</guid>
+        <guid>http://localhost:1313/posts/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
         
         <dc:creator>Lee</dc:creator>
-        <media:content url="https://thien1n.github.io/images/bai3/bai3.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://localhost:1313/images/bai3/bai3.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

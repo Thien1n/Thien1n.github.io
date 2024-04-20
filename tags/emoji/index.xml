@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Emoji on ThienTrinhIT</title>
-    <link>https://thien1n.github.io/tags/emoji/</link>
+    <link>http://localhost:1313/tags/emoji/</link>
     <description>Recent content in Emoji on ThienTrinhIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>©2024, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 16 Dec 2019 12:00:06 +0900</lastBuildDate>
     
-        <atom:link href="https://thien1n.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>3Tshare</title>
-        <link>https://thien1n.github.io/posts/bai1/</link>
+        <link>http://localhost:1313/posts/bai1/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>https://thien1n.github.io/posts/bai1/</guid>
+        <guid>http://localhost:1313/posts/bai1/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>
@@ -62,11 +62,11 @@
       
       <item>
         <title>Emoji Support</title>
-        <link>https://thien1n.github.io/posts/emoji-support/</link>
+        <link>http://localhost:1313/posts/emoji-support/</link>
         <pubDate>Mon, 16 Dec 2019 12:00:06 +0900</pubDate>
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Mon, 16 Dec 2019 12:00:06 +0900</atom:modified>
-        <guid>https://thien1n.github.io/posts/emoji-support/</guid>
+        <guid>http://localhost:1313/posts/emoji-support/</guid>
         <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
         
         <dc:creator>Kim</dc:creator>
