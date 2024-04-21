@@ -1719,8 +1719,38 @@
     </div>
     <article class="single__contents" data-dir="ltr" data-ani="true">
       
-      <h1 id="1-tổng-quan-về-git">1. Tổng quan về Git</h1>
-<h2 id="11-tại-sao-cần-sử-dụng-git">1.1. Tại sao cần sử dụng Git</h2>
+<div class="expand">
+  <button type="button" class="expand__button" aria-label="Expand Button">
+    <span class="expand-icon expand-icon__right">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="currentColor" d="M9.29 15.88L13.17 12 9.29 8.12c-.39-.39-.39-1.02 0-1.41.39-.39 1.02-.39 1.41 0l4.59 4.59c.39.39.39 1.02 0 1.41L10.7 17.3c-.39.39-1.02.39-1.41 0-.38-.39-.39-1.03 0-1.42z"/></svg>
+    </span>
+    What&#39;s on this Page
+  </button>
+  <div class="expand__content expand__content--toc">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#1-tổng-quan-về-git">1. Tổng quan về Git</a>
+      <ul>
+        <li><a href="#11-tại-sao-cần-sử-dụng-git">1.1. Tại sao cần sử dụng Git</a></li>
+        <li><a href="#12-phân-biệt-git-và-github">1.2. Phân biệt Git và Github</a></li>
+      </ul>
+    </li>
+    <li><a href="#2-cài-đặt-git">2. Cài đặt Git</a></li>
+    <li><a href="#3-thiết-đặt-usernameemail-cho-git">3. Thiết đặt username/email cho Git</a>
+      <ul>
+        <li><a href="#31-tại-sao-cần-khai-báo-usernameemail-cho-git">3.1. Tại sao cần khai báo username/email cho Git</a></li>
+        <li><a href="#32-lệnh-cấu-hình">3.2. Lệnh cấu hình</a></li>
+        <li><a href="#33-cài-đặt">3.3. Cài đặt</a></li>
+        <li><a href="#34-tham-khảo">3.4. Tham khảo</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </div>
+</div>
+
+      <h2 id="1-tổng-quan-về-git">1. Tổng quan về Git</h2>
+<h3 id="11-tại-sao-cần-sử-dụng-git">1.1. Tại sao cần sử dụng Git</h3>
 <p>Git là một công cụ được cài đặt trên máy tính cá nhân sử dụng với mục đích quản lý mã nguồn (source code) một cách hiệu quả hơn</p>
 <p>Các tính năng mà chúng ta thường sử dụng trên Git có thể kể đến như:</p>
 <ul>
@@ -1728,12 +1758,12 @@
 <li>Kiểm tra và truy vấn sự thay đổi mã nguồn</li>
 <li>Quản lý phiên bản mã nguồn,&hellip;</li>
 </ul>
-<h2 id="12-phân-biệt-git-và-github">1.2. Phân biệt Git và Github</h2>
+<h3 id="12-phân-biệt-git-và-github">1.2. Phân biệt Git và Github</h3>
 <ul>
 <li>Git là công cụ/phần mềm được cài đặt và chạy trên máy tính cá nhân (Local)</li>
 <li>Github là nền tảng lưu trữ mã nguồn trực tuyến trên đám mây (Cloud)</li>
 </ul>
-<h1 id="2-cài-đặt-git">2. Cài đặt Git</h1>
+<h2 id="2-cài-đặt-git">2. Cài đặt Git</h2>
 <p>Để cài đặt Git chúng ta thực hiện các bước sau:</p>
 <ol>
 <li>
@@ -1785,10 +1815,10 @@ Nếu màn trả về kết quả như hình trên có nghĩa là máy bạn ch�
 <li>Phải chuột trên màn hình <strong>Desktop</strong> &gt;  đảm bảo xuất hiện lựa chọn <strong>Open Git Bash here</strong> <img alt="alt text" src="../../img/step25.png"></li>
 </ol>
 <blockquote>
-<p>Vậy là quá trình cài đặt Git đã hoàn tất&quot;</p>
+<p>Vậy là quá trình cài đặt Git trên máy tính cá nhân đã hoàn tất&quot;</p>
 </blockquote>
-<h1 id="3-thiết-đặt-usernameemail-cho-git">3. Thiết đặt username/email cho Git</h1>
-<h2 id="31-tại-sao-cần-khai-báo-usernameemail-cho-git">3.1. Tại sao cần khai báo username/email cho Git</h2>
+<h2 id="3-thiết-đặt-usernameemail-cho-git">3. Thiết đặt username/email cho Git</h2>
+<h3 id="31-tại-sao-cần-khai-báo-usernameemail-cho-git">3.1. Tại sao cần khai báo username/email cho Git</h3>
 <p>Để kết nối Git với nền tảng lưu trữ mã nguồn trực tuyến như Github thì chúng cần thiết lập khai báo username hoặc email cho Git<br />
 Từ đó Git có thể định danh người đang tương tác với mã nguồn trên hệ thống local là ai và thông qua địa chỉ email thì Github có thể xác định bạn là ai</p>
 <ul>
@@ -1799,10 +1829,10 @@ Từ đó Git có thể định danh người đang tương tác với mã ngu�
 </ul>
 </li>
 </ul>
-<h2 id="32-lệnh-cấu-hình">3.2. Lệnh cấu hình</h2>
+<h3 id="32-lệnh-cấu-hình">3.2. Lệnh cấu hình</h3>
 <pre tabindex="0"><code class="language-git" data-lang="git">git config --global user.name &#34;Your Github Username&#34;
 git config --global user.email &#34;Your Email Address&#34;
-</code></pre><h2 id="33-cài-đặt">3.3. Cài đặt</h2>
+</code></pre><h3 id="33-cài-đặt">3.3. Cài đặt</h3>
 <ol>
 <li>Tại màn hình <strong>Desktop</strong> &gt; phải chuột chọn <strong>Open Git Bash here</strong> <img alt="alt text" src="../../img/step25.png"></li>
 <li>Tại màn hình Git command &gt; nhập git config &ndash;list <img alt="alt text" src="../../img/step31.png"></li>
@@ -1815,7 +1845,7 @@ git config --global user.email &#34;Your Email Address&#34;
 <blockquote>
 <p>Vậy là chúng ta đã khai báo thông tin username/Email cho git thành công</p>
 </blockquote>
-<h2 id="34-tham-khảo">3.4. Tham khảo</h2>
+<h3 id="34-tham-khảo">3.4. Tham khảo</h3>
 <ul>
 <li><a href="https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git">https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git</a></li>
 <li><a href="https://linuxize.com/post/how-to-configure-git-username-and-email/">https://linuxize.com/post/how-to-configure-git-username-and-email/</a></li>
@@ -2192,7 +2222,11 @@ git config --global user.email &#34;Your Email Address&#34;
     <ul class="related-ul">
         
         <li>
-          <a href="/posts/git/gitcoban/bai1/noidung/gitbai2/" class="related__link">Làm Quen Với Git Phần 2</a>
+          <a href="/posts/git/gitcoban/bai2/noidung/gitbai2/" class="related__link">Làm Quen Với Git Phần 2</a>
+        </li>
+        
+        <li>
+          <a href="/posts/git/gitcoban/bai3/noidung/gitbai3/" class="related__link">Làm Quen Với Git Phần 3</a>
         </li>
         
     </ul>
@@ -2202,7 +2236,7 @@ git config --global user.email &#34;Your Email Address&#34;
 <nav class="pagination-single">
   
     
-      <a href="https://it.trinhthanhthien.id.vn/posts/git/gitcoban/bai1/noidung/gitbai2/" class="pagination-single__left">
+      <a href="https://it.trinhthanhthien.id.vn/posts/git/gitcoban/bai2/noidung/gitbai2/" class="pagination-single__left">
         <div class="pagination-single__icon">
           <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path fill="currentColor" d="M19 11H7.83l4.88-4.88c.39-.39.39-1.03 0-1.42-.39-.39-1.02-.39-1.41 0l-6.59 6.59c-.39.39-.39 1.02 0 1.41l6.59 6.59c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L7.83 13H19c.55 0 1-.45 1-1s-.45-1-1-1z"/></svg>
         </div>
@@ -2621,15 +2655,21 @@ document.addEventListener('DOMContentLoaded', function () {
   <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
     <nav id="TableOfContents">
   <ul>
-    <li><a href="#11-tại-sao-cần-sử-dụng-git">1.1. Tại sao cần sử dụng Git</a></li>
-    <li><a href="#12-phân-biệt-git-và-github">1.2. Phân biệt Git và Github</a></li>
-  </ul>
-
-  <ul>
-    <li><a href="#31-tại-sao-cần-khai-báo-usernameemail-cho-git">3.1. Tại sao cần khai báo username/email cho Git</a></li>
-    <li><a href="#32-lệnh-cấu-hình">3.2. Lệnh cấu hình</a></li>
-    <li><a href="#33-cài-đặt">3.3. Cài đặt</a></li>
-    <li><a href="#34-tham-khảo">3.4. Tham khảo</a></li>
+    <li><a href="#1-tổng-quan-về-git">1. Tổng quan về Git</a>
+      <ul>
+        <li><a href="#11-tại-sao-cần-sử-dụng-git">1.1. Tại sao cần sử dụng Git</a></li>
+        <li><a href="#12-phân-biệt-git-và-github">1.2. Phân biệt Git và Github</a></li>
+      </ul>
+    </li>
+    <li><a href="#2-cài-đặt-git">2. Cài đặt Git</a></li>
+    <li><a href="#3-thiết-đặt-usernameemail-cho-git">3. Thiết đặt username/email cho Git</a>
+      <ul>
+        <li><a href="#31-tại-sao-cần-khai-báo-usernameemail-cho-git">3.1. Tại sao cần khai báo username/email cho Git</a></li>
+        <li><a href="#32-lệnh-cấu-hình">3.2. Lệnh cấu hình</a></li>
+        <li><a href="#33-cài-đặt">3.3. Cài đặt</a></li>
+        <li><a href="#34-tham-khảo">3.4. Tham khảo</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
   </div>
