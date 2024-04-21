@@ -69,8 +69,8 @@ Kiểm tra lịch sử mã nguồn Kiểm tra và truy vấn sự thay đổi m�
         <author>trinhthanhthien6.it@gmail.com (Trịnh Thanh Thiên)</author>
         <atom:modified>Fri, 19 Apr 2024 11:11:12 +0000</atom:modified>
         <guid>https://it.trinhthanhthien.id.vn/posts/git/gitcoban/bai2/noidung/gitbai2/</guid>
-        <description>1. Ngữ cảnh Là một lập trình viên bạn thường xuyên nhận được các yêu cầu tư đơn vị là tải mã nguồn về, kéo source code, hoặc kéo Project từ Github về máy để chạy, để kiểm tra, hoặc là để tham khảo,&amp;hellip; Tải xuống một Project có sẵn từ GitHub về máy tính cá nhân
-Hoặc bạn thường xuyên nhận được các yêu cầu từ cấp trên là bạn hãy đẩy mã nguồn, đẩy source code lên Github đi để team cùng làm việc.</description>
+        <description>1. Ngữ cảnh Là một lập trình viên bạn thường xuyên nhận được các yêu cầu tư đơn vị là tải mã nguồn về, kéo source code, hoặc kéo Project từ GitHub về máy để chạy, để kiểm tra, hoặc là để tham khảo,&amp;hellip; Tải xuống một Project có sẵn từ GitHub về máy tính cá nhân
+Hoặc bạn thường xuyên nhận được các yêu cầu từ cấp trên là bạn hãy đẩy mã nguồn, đẩy source code lên GitHub đi để team cùng làm việc.</description>
         
         <dc:creator>Trịnh Thanh Thiên</dc:creator>
         <media:content url="https://it.trinhthanhthien.id.vn/images/git/bai1/git.webp" medium="image"><media:title type="html">featured image</media:title></media:content>
